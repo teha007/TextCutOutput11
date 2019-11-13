@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }
         else{
             Toast.makeText(this, "글자를 5자 이상 입력하세요. ^^", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "하하 나는 새로운 브랜치다. 새롭게 값을 추가한다." , Toast.LENGTH_SHORT).show();
         }
 
     }
